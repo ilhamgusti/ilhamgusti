@@ -1,6 +1,6 @@
 # Hi! I'm Ilham Gusti Wibowo 👋
 
-a Frontend Developer who experienced in ReactJS to building Website. I am very passionate and love my job. My main programming language is Javascript and PHP. My favorite framework are React for web development. I am very excited to learn something new.
+a Frontend Developer who experienced in ReactJS to building Website. I am very passionate and love my job. My main programming language is Javascript and PHP. My favorite Library are React for web development. I am very excited to learn something new.
 
 
 ### My Stats for the week:
